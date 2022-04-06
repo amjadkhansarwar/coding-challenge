@@ -23,4 +23,5 @@ When server get data from api then send it to client through socket. Client
 and server are always connectd through sockets thats why we can render live 
 data of twitter.
 
+![Design-pattern](./images/design-pattern.PNG)
 
